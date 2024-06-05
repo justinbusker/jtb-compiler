@@ -1,3 +1,3 @@
 # jtb-compiler
 
-<h1>yo</h1>
+<p>Repo for jtb language compiler written in c++</p>
